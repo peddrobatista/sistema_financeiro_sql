@@ -1,0 +1,6 @@
+# Node.js
+/node_modules
+
+# Arquivo de variáveis de ambiente
+variaveis.env
+
